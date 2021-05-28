@@ -24,7 +24,7 @@ Understanding the results
 
 Notice Different models will calculate different estimates for CS and D'. In this case CS was almost similar for both model however D' was lower for the non-linear model. R^2 values were good indicating the model did a good job fitting the data 
 
-In the current literature CS= 5.91m/s(SD=0.14) and D'= 328m (SD=104), comparitively the model developed did an acuurately enough estimation 
+In the current literature CS= 5.91m/s(SD=0.14) and D'= 328m (SD=104), comparitively the model developed did an acuurate estimation of the performance metrices 
 
 Eluid Kipchoge has a CS of 6.04m.s (a complete beast). In football high speed running/sprinting is anything >5 m/s. Now a good homework for anyone reading is to try and run at this speed for >2mins (I assure you it wont be fun/possible !!). Elite runners run at 96% of thier CS, this should put things in perspective and increase our appreciation for the sport of endurance running. 
 
