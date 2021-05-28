@@ -11,7 +11,9 @@ The hyperbolic relationship between power output (PO) and the duration for which
 3.) The code in the notebook will- walk through how to make a data set via -> webscarpping,regex,pandas,numpy, sklearn 
 
 4.) Statistical model used - Linear regression 
+
     Linear model => y = mx + c | D = CS.T + D' (D= Total distance i.e 1.5,2km etc, CS= Critical Speed, T= time taken to complete D,D'= distance travelled above CS)
+    
     Non-Linear model=> S = D'/T + CS (S = avg speed at which the distnaces were covered in i.e 1.5km/T, all the rest are same as above)
  
  
