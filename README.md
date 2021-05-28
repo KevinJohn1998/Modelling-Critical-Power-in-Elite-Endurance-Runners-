@@ -1,1 +1,1 @@
-# Modelling-Critical-Speed-in-Elite-Endurance-Runners-
+# Modelling Critical-Power in Elite Endurance Runners 
