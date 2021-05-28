@@ -18,7 +18,7 @@ The hyperbolic relationship between power output (PO) and the duration for which
     
 # The Output 
 
-<img src="Modelling-Critical-Power-in-Elite-Endurance-Runners-/CS -image/img.png" width = 500>
+<img src="https://github.com/KevinJohn1998/Modelling-Critical-Power-in-Elite-Endurance-Runners-/tree/main/CS%20-image" width = 500>
 
  
  
