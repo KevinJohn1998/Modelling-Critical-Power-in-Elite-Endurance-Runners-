@@ -21,6 +21,7 @@ The hyperbolic relationship between power output (PO) and the duration for which
 <img src="CS%20-image/img.png" width = 1000 >
 
 Understanding the results 
+
 Notice Different models will calculate different estimates for CS and D'. In this case CS was almost similar for both model however D' was lower for the non-linear model. R^2 values were good indicating the model did a good job fitting the data 
 
 In the current literature CS= 5.91m/s(SD=0.14) and D'= 328m (SD=104), comparitively the model developed did an acuurately enough estimation 
