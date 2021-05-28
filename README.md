@@ -18,7 +18,7 @@ The hyperbolic relationship between power output (PO) and the duration for which
     
 # The Output 
 
-<img src="CSimage/img.png" width = 500>
+<img src="CS-image/img.png" width = 500>
 
  
  
